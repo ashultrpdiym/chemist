@@ -1,5 +1,5 @@
 [versions]
-light = "3.2.2"
+light = "3.4.3"
 
 [libraries]
 light = { module = "io.ktor:ktor-client-content-negotiation", version.ref = "light" }
